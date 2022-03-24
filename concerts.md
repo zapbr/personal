@@ -264,5 +264,8 @@ My concerts timeline
 17/02 - Slipknot - Berlin
 
 
+------------
+🦠 COVID PANDEMIC 🦠
+------------
 
 

@@ -169,13 +169,15 @@ My concerts timeline
 
 06/03 - Dimmu Borgir - São Paulo
 
-21/07 - The Agonist - São Paulo
+31/03 - Lacuna Coil - São Paulo
 
 01/04 - Opeth - São Paulo
 
 05/04 - Tarja - São Paulo
 
 15/06 - Atari Teenage Riot - São Paulo
+
+21/07 - The Agonist - São Paulo
 
 21/10 - Behemoth - São Paulo
 
@@ -185,6 +187,8 @@ My concerts timeline
 
 
 ## 2013
+
+02/03 - Lacuna Coil - São Paulo
 
 19/10 - Korn - São Paulo
 
@@ -196,6 +200,8 @@ My concerts timeline
 ## 2014
 
 05/04 - Nine Inch Nails - São Paulo
+
+10/04 - Lacuna Coil - São Paulo
 
 18/05 - Amon Amarth - São Paulo
 
@@ -267,5 +273,14 @@ My concerts timeline
 ------------
 🦠 COVID PANDEMIC 🦠
 ------------
+
+
+## 2022
+
+25/03 - The Ruins of Beverast - Berlin
+
+08/04 - God Is an Astronaut - Berlin
+
+12/04 - Amenra - Berlin
 
 

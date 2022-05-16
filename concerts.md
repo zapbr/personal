@@ -284,5 +284,47 @@ My concerts timeline
 
 12/04 - Amenra - Berlin
 
-04/05 - anneke van giersbergen - Berlin
+04/05 - Anneke Van Giersbergen - Berlin
+
+15/05 - TOOL - Berlin
+
+
+
+------------
+... scenes of the next chapters
+
+------------
+
+24.05 - Oranssi Pazuzu, DeaF Kids, Sturle Dagsland
+
+01.06 - Korn
+
+04.06 - Rammstein
+
+06.06 - Einstürzende Neubauten
+
+17.06 - Björk
+
+17.07 - Emma Ruth Rundle
+
+23.07 - Gojira, Alien Weaponry, Employed To Serve
+
+24.09 - Massive Attack
+
+01.10 - Amon Amarth, Machine Head, The Halo Effect
+
+06.10 - Placebo
+
+09.10 - Cradle of Filth, Alcest
+
+13.10 - Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart
+
+14.10 - Arch Enemy, Behemoth, Carcass, Unto Others
+
+11.11 - Wolves in the Throne Room, Stygian Bough
+
+14.11 - Opeth
+
+25.01.23 - Katatonia
+
 

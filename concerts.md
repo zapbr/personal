@@ -288,14 +288,13 @@ My concerts timeline
 
 15/05 - TOOL - Berlin
 
+24/05 - Oranssi Pazuzu - Berlin
 
 
 ------------
 ... scenes of the next chapters
 
 ------------
-
-24.05 - Oranssi Pazuzu, DeaF Kids, Sturle Dagsland
 
 01.06 - Korn
 

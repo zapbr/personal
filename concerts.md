@@ -296,7 +296,6 @@ My concerts timeline
 
 ------------
 
-01.06 - Korn
 
 04.06 - Rammstein
 
@@ -307,8 +306,6 @@ My concerts timeline
 17.07 - Emma Ruth Rundle
 
 23.07 - Gojira, Alien Weaponry, Employed To Serve
-
-24.09 - Massive Attack
 
 01.10 - Amon Amarth, Machine Head, The Halo Effect
 

@@ -290,16 +290,14 @@ My concerts timeline
 
 24/05 - Oranssi Pazuzu - Berlin
 
+04/06 - Rammstein
+
+06/06 - Einstürzende Neubauten
 
 ------------
 ... scenes of the next chapters
 
 ------------
-
-
-04.06 - Rammstein
-
-06.06 - Einstürzende Neubauten
 
 17.06 - Björk
 

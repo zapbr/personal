@@ -301,9 +301,13 @@ My concerts timeline
 
 17.06 - Björk
 
+02.07 - Thou
+
 17.07 - Emma Ruth Rundle
 
 23.07 - Gojira, Alien Weaponry, Employed To Serve
+
+16.09 - Dool
 
 01.10 - Amon Amarth, Machine Head, The Halo Effect
 

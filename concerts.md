@@ -323,6 +323,8 @@ My concerts timeline
 
 14.11 - Opeth
 
+20.11 - Zeal & Ardor
+
 25.01.23 - Katatonia
 
 

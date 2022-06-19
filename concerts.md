@@ -299,8 +299,6 @@ My concerts timeline
 
 ------------
 
-17.06 - Björk
-
 02.07 - Thou
 
 17.07 - Emma Ruth Rundle
@@ -308,6 +306,8 @@ My concerts timeline
 23.07 - Gojira, Alien Weaponry, Employed To Serve
 
 16.09 - Dool
+
+27.09 - Liturgy
 
 01.10 - Amon Amarth, Machine Head, The Halo Effect
 
@@ -326,5 +326,11 @@ My concerts timeline
 20.11 - Zeal & Ardor
 
 25.01.23 - Katatonia
+
+28.01.23 - Karnivool
+
+18.03.23 - Cult Of Luna, Russian Circles
+
+
 
 

@@ -290,16 +290,16 @@ My concerts timeline
 
 24/05 - Oranssi Pazuzu - Berlin
 
-04/06 - Rammstein
+04/06 - Rammstein - Berlin
 
-06/06 - Einstürzende Neubauten
+06/06 - Einstürzende Neubauten - Berlin
+
+02.07 - Thou, Portrayal of Guilt - Berlin
 
 ------------
 ... scenes of the next chapters
 
 ------------
-
-02.07 - Thou
 
 17.07 - Emma Ruth Rundle
 

@@ -301,36 +301,21 @@ My concerts timeline
 
 ------------
 
-17.07 - Emma Ruth Rundle
-
-23.07 - Gojira, Alien Weaponry, Employed To Serve
-
-16.09 - Dool
-
-27.09 - Liturgy
-
-01.10 - Amon Amarth, Machine Head, The Halo Effect
-
-06.10 - Placebo
-
-09.10 - Cradle of Filth, Alcest
-
-13.10 - Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart
-
-14.10 - Arch Enemy, Behemoth, Carcass, Unto Others
-
-11.11 - Wolves in the Throne Room, Stygian Bough
-
-14.11 - Opeth
-
-20.11 - Zeal & Ardor
-
-25.01.23 - Katatonia
-
-28.01.23 - Karnivool
-
-18.03.23 - Cult Of Luna, Russian Circles
-
-
-
+|Date|Bands|Tickets|
+|-|-|-|
+|17.07 | Emma Ruth Rundle | ✅ |
+|23.07 | Gojira, Alien Weaponry, Employed To Serve | [link](https://huxleysneuewelt.com/shows/gojira-2) |
+|16.09 | Dool | [link](https://www.songkick.com/concerts/39243120-dool-at-orwohaus) |
+|27.09 | Liturgy | [link](https://www.cassiopeia-berlin.de/event/liturgy) |
+|01.10 | Amon Amarth, Machine Head, The Halo Effect | [link](https://www.velodrom.de/events-tickets/event/detail/amon-amarth-machine-head-3896) |
+|06.10 | Placebo | [link](https://www.mercedes-benz-arena-berlin.de/events/detail/placebo-2022/2022-10-06-2000) |
+|09.10 | Cradle of Filth, Alcest | [link](https://columbia-theater.de/event/cradle-of-filth-3/) |
+|13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
+|14.10 | Arch Enemy, Behemoth, Carcass, Unto Others | [link](https://www.landstreicher-konzerte.de/dates/arch-enemy-behemoth-berlin-2021/) |
+|11.11 | Wolves in the Throne Room, Stygian Bough | [link](https://www.landstreicher-konzerte.de/dates/wolves-in-the-throne-room-berlin-2022/) |
+|14.11 | Opeth | [link](https://www.ticketmaster.de/event/opeth-tickets/399503) |
+|20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |
+|25.01.23 | Katatonia | ✅ |
+|28.01.23 | Karnivool | [link](https://huxleysneuewelt.com/) |
+|18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |
 

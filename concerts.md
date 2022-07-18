@@ -294,7 +294,10 @@ My concerts timeline
 
 06/06 - Einstürzende Neubauten - Berlin
 
-02.07 - Thou, Portrayal of Guilt - Berlin
+02/07 - Thou, Portrayal of Guilt - Berlin
+
+17/07 - Emma Ruth Rundle - Berlin
+
 
 ------------
 ... scenes of the next chapters
@@ -303,7 +306,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|17.07 | Emma Ruth Rundle | ✅ |
 |23.07 | Gojira, Alien Weaponry, Employed To Serve | [link](https://huxleysneuewelt.com/shows/gojira-2) |
 |16.09 | Dool | [link](https://www.songkick.com/concerts/39243120-dool-at-orwohaus) |
 |27.09 | Liturgy | [link](https://www.cassiopeia-berlin.de/event/liturgy) |
@@ -317,5 +319,6 @@ My concerts timeline
 |20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |
 |25.01.23 | Katatonia | ✅ |
 |28.01.23 | Karnivool | [link](https://huxleysneuewelt.com/) |
+|08.02.23 | Metric | [link](https://www.livenation.de/show/1381935/metric/berlin/2023-02-08/de) |
 |18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |
 

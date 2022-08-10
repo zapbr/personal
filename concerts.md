@@ -306,7 +306,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|23.07 | Gojira, Alien Weaponry, Employed To Serve | [link](https://huxleysneuewelt.com/shows/gojira-2) |
 |16.09 | Dool | [link](https://www.songkick.com/concerts/39243120-dool-at-orwohaus) |
 |27.09 | Liturgy | [link](https://www.cassiopeia-berlin.de/event/liturgy) |
 |01.10 | Amon Amarth, Machine Head, The Halo Effect | [link](https://www.velodrom.de/events-tickets/event/detail/amon-amarth-machine-head-3896) |

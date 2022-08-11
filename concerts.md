@@ -179,6 +179,8 @@ My concerts timeline
 
 21/07 - The Agonist - São Paulo
 
+18/08 - Móveis Coloniais de Acaju - São Paulo
+
 21/10 - Behemoth - São Paulo
 
 25/11 - Arch Enemy - São Paulo

@@ -308,7 +308,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|27.09 | Liturgy | [link](https://www.cassiopeia-berlin.de/event/liturgy) |
 |01.10 | Amon Amarth, Machine Head, The Halo Effect | [link](https://www.velodrom.de/events-tickets/event/detail/amon-amarth-machine-head-3896) |
 |06.10 | Placebo | [link](https://www.mercedes-benz-arena-berlin.de/events/detail/placebo-2022/2022-10-06-2000) |
 |09.10 | Cradle of Filth, Alcest | ✅ |

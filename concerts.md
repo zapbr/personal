@@ -308,18 +308,17 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|16.09 | Dool | [link](https://www.songkick.com/concerts/39243120-dool-at-orwohaus) |
 |27.09 | Liturgy | [link](https://www.cassiopeia-berlin.de/event/liturgy) |
 |01.10 | Amon Amarth, Machine Head, The Halo Effect | [link](https://www.velodrom.de/events-tickets/event/detail/amon-amarth-machine-head-3896) |
 |06.10 | Placebo | [link](https://www.mercedes-benz-arena-berlin.de/events/detail/placebo-2022/2022-10-06-2000) |
-|09.10 | Cradle of Filth, Alcest | [link](https://columbia-theater.de/event/cradle-of-filth-3/) |
+|09.10 | Cradle of Filth, Alcest | ✅ |
 |13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
 |14.10 | Arch Enemy, Behemoth, Carcass, Unto Others | [link](https://www.landstreicher-konzerte.de/dates/arch-enemy-behemoth-berlin-2021/) |
 |11.11 | Wolves in the Throne Room, Stygian Bough | [link](https://www.landstreicher-konzerte.de/dates/wolves-in-the-throne-room-berlin-2022/) |
 |14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |
+|27.11 | Dool | [link](https://www.tixforgigs.com/Event/44035/dool-w-support-tba-urban-spree-berlin) |
 |25.01.23 | Katatonia | ✅ |
 |28.01.23 | Karnivool | [link](https://huxleysneuewelt.com/) |
 |08.02.23 | Metric | [link](https://www.livenation.de/show/1381935/metric/berlin/2023-02-08/de) |
 |18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |
-

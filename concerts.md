@@ -308,6 +308,7 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
+|22.09 | Elder, Pallbearer, irisT | [link](https://www.greyzone-tickets.de/produkte/525-tickets-elder-pallbearer-so36-berlin-am-22-09-2022) |
 |01.10 | Amon Amarth, Machine Head, The Halo Effect | [link](https://www.velodrom.de/events-tickets/event/detail/amon-amarth-machine-head-3896) |
 |06.10 | Placebo | [link](https://www.mercedes-benz-arena-berlin.de/events/detail/placebo-2022/2022-10-06-2000) |
 |09.10 | Cradle of Filth, Alcest | ✅ |

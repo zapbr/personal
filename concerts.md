@@ -308,12 +308,13 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|22.09 | Elder, Pallbearer, irisT | [link](https://www.greyzone-tickets.de/produkte/525-tickets-elder-pallbearer-so36-berlin-am-22-09-2022) |
+|22.09 | Elder, Pallbearer, irisT | ✅|
 |01.10 | Amon Amarth, Machine Head, The Halo Effect | [link](https://www.velodrom.de/events-tickets/event/detail/amon-amarth-machine-head-3896) |
 |06.10 | Placebo | [link](https://www.mercedes-benz-arena-berlin.de/events/detail/placebo-2022/2022-10-06-2000) |
 |09.10 | Cradle of Filth, Alcest | ✅ |
 |13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
 |14.10 | Arch Enemy, Behemoth, Carcass, Unto Others | [link](https://www.landstreicher-konzerte.de/dates/arch-enemy-behemoth-berlin-2021/) |
+|26.10 | Ulver | ✅ |
 |11.11 | Wolves in the Throne Room, Stygian Bough | [link](https://www.landstreicher-konzerte.de/dates/wolves-in-the-throne-room-berlin-2022/) |
 |14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |

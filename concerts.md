@@ -314,7 +314,6 @@ My concerts timeline
 |09.10 | Cradle of Filth, Alcest | ✅ |
 |13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
 |14.10 | Arch Enemy, Behemoth, Carcass, Unto Others | [link](https://www.landstreicher-konzerte.de/dates/arch-enemy-behemoth-berlin-2021/) |
-|26.10 | Ulver | ✅ |
 |11.11 | Wolves in the Throne Room, Stygian Bough | [link](https://www.landstreicher-konzerte.de/dates/wolves-in-the-throne-room-berlin-2022/) |
 |14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |

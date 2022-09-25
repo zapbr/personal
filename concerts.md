@@ -311,7 +311,6 @@ My concerts timeline
 |-|-|-|
 |09.10 | Cradle of Filth, Alcest | ✅ |
 |13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
-|11.11 | Wolves in the Throne Room, Stygian Bough | [link](https://www.landstreicher-konzerte.de/dates/wolves-in-the-throne-room-berlin-2022/) |
 |14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |
 |27.11 | Dool | [link](https://www.tixforgigs.com/Event/44035/dool-w-support-tba-urban-spree-berlin) |
@@ -320,3 +319,4 @@ My concerts timeline
 |08.02.23 | Metric | [link](https://www.livenation.de/show/1381935/metric/berlin/2023-02-08/de) |
 |14.03.23 | Igorrr, Amenra, Der Weg Einer Freiheit | [link](https://huxleysneuewelt.com/) |
 |18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |
+|13.04.23 | Wolves in the Throne Room, Stygian Bough | [link](https://www.eventim.de/event/wolves-in-the-throne-room-lido-15862040/?affiliate=LAS) |

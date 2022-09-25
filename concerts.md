@@ -5,6 +5,9 @@ My concerts timeline
 
 ??/11 - Raimundos - Belo Horizonte
 
+## 1996
+
+08/12 - Megadeth, Whitesnake, Queensryche - Belo Horizonte
 
 ## 1997
 

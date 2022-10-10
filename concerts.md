@@ -305,6 +305,8 @@ My concerts timeline
 
 22/09 - Elder, Pallbearer, irisT - Berlin
 
+09/10 - Alcest - Berlin
+
 ------------
 ... scenes of the next chapters
 
@@ -312,10 +314,9 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|09.10 | Cradle of Filth, Alcest | ✅ |
 |13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
 |14.11 | Opeth | ✅ |
-|20.11 | Zeal & Ardor | [link](https://columbia-theater.de/event/zeal-ardor-2/) |
+|20.11 | Zeal & Ardor | ✅ |
 |27.11 | Dool | [link](https://www.tixforgigs.com/Event/44035/dool-w-support-tba-urban-spree-berlin) |
 |25.01.23 | Katatonia | ✅ |
 |28.01.23 | Karnivool | [link](https://huxleysneuewelt.com/) |

@@ -103,7 +103,6 @@ My concerts timeline
 
 10/05 - Amon Amarth - São Paulo
 
-
 16/05 - Heaven & Hell - São Paulo
 
 07/11 - Faith No More - São Paulo
@@ -194,6 +193,8 @@ My concerts timeline
 ## 2013
 
 02/03 - Lacuna Coil - São Paulo
+
+22/06 - Archgoat - São Paulo
 
 19/10 - Korn - São Paulo
 

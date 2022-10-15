@@ -314,7 +314,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|13.10 | Moonspell, Borknagar, Hinayana, My Dying Bride, Wolfheart | [link](https://www.kesselhaus.net/event/659066/?artist=Ultima+Ratio+Fest%93-Tour+) |
 |14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | ✅ |
 |27.11 | Dool | [link](https://www.tixforgigs.com/Event/44035/dool-w-support-tba-urban-spree-berlin) |

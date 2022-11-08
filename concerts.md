@@ -315,11 +315,10 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|08.11 | Coven | [link](https://bit.ly/3Tmv10V) |
 |14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | ✅ |
-|27.11 | Dool | [link](https://www.tixforgigs.com/Event/44035/dool-w-support-tba-urban-spree-berlin) |
-|14.12 | A.A. Williams | [link](https://www.greyzone-tickets.de/produkte/608-tickets-a-a-williams-urban-spree-berlin-am-14-12-2022) |
+|27.11 | Dool | ✅ |
+|14.12 | A.A. Williams | ✅ |
 |25.01.23 | Katatonia | ✅ |
 |28.01.23 | Karnivool | [link](https://huxleysneuewelt.com/) |
 |08.02.23 | Metric | [link](https://www.livenation.de/show/1381935/metric/berlin/2023-02-08/de) |

@@ -308,6 +308,8 @@ My concerts timeline
 
 09/10 - Alcest - Berlin
 
+14/11 - Opeth - Berlin
+
 ------------
 ... scenes of the next chapters
 
@@ -315,7 +317,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|14.11 | Opeth | ✅ |
 |20.11 | Zeal & Ardor | ✅ |
 |27.11 | Dool | ✅ |
 |14.12 | A.A. Williams | ✅ |

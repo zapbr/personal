@@ -310,6 +310,8 @@ My concerts timeline
 
 14/11 - Opeth - Berlin
 
+20/11 - Zeal & Ardor - Berlin
+
 ------------
 ... scenes of the next chapters
 
@@ -317,7 +319,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|20.11 | Zeal & Ardor | ✅ |
 |27.11 | Dool | ✅ |
 |14.12 | A.A. Williams | ✅ |
 |25.01.23 | Katatonia | ✅ |

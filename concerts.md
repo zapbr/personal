@@ -329,3 +329,5 @@ My concerts timeline
 |14.03.23 | Igorrr, Amenra, Der Weg Einer Freiheit | [link](https://huxleysneuewelt.com/) |
 |18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |
 |13.04.23 | Wolves in the Throne Room, Stygian Bough | [link](https://www.eventim.de/event/wolves-in-the-throne-room-lido-15862040/?affiliate=LAS) |
+|28.06.23 | Puscifer | ✅ |
+

@@ -89,9 +89,6 @@ My concerts timeline
 
 03/02 - Arch Enemy - Belo Horizonte
 
-
-## 2007
-
 02/03 - Iron Maiden - São Paulo
 
 
@@ -316,6 +313,11 @@ My concerts timeline
 
 14/12 - A.A. Williams - Berlin
 
+## 2023
+
+25/01 - Katatonia - Berlin
+
+
 ------------
 ... scenes of the next chapters
 
@@ -323,8 +325,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|25.01.23 | Katatonia | ✅ |
-|28.01.23 | Karnivool | [link](https://huxleysneuewelt.com/) |
 |08.02.23 | Metric | [link](https://www.livenation.de/show/1381935/metric/berlin/2023-02-08/de) |
 |14.03.23 | Igorrr, Amenra, Der Weg Einer Freiheit | [link](https://huxleysneuewelt.com/) |
 |18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |

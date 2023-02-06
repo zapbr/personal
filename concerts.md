@@ -325,9 +325,8 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|08.02.23 | Metric | [link](https://www.livenation.de/show/1381935/metric/berlin/2023-02-08/de) |
-|14.03.23 | Igorrr, Amenra, Der Weg Einer Freiheit | [link](https://huxleysneuewelt.com/) |
-|18.03.23 | Cult Of Luna, Russian Circles | [link](https://huxleysneuewelt.com/) |
+|14.03.23 | Igorrr, Amenra, Der Weg Einer Freiheit | ✅ |
+|18.03.23 | Cult Of Luna, Russian Circles | ✅ |
 |13.04.23 | Wolves in the Throne Room, Stygian Bough | [link](https://www.eventim.de/event/wolves-in-the-throne-room-lido-15862040/?affiliate=LAS) |
 |27.04.23 | Portrayal of Guilt | [link](https://www.eventbrite.de/e/usu-pres-portrayal-of-guilt-muscle-worship-urban-spree-tickets-518819110927?aff=aff0bandsintown&bit_userid=${user_id}&appId=onaqfvagbja_rznvy_whfg_naabhaprq&comeFrom=162&artist_event_id=104063201) |
 |28.06.23 | Puscifer | ✅ |

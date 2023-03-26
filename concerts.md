@@ -316,6 +316,8 @@ My concerts timeline
 ## 2023
 
 25/01 - Katatonia - Berlin
+14/03 - Igorrr, Amenra, Der Weg Einer Freiheit - Berlin
+18/03 - Cult Of Luna, Russian Circles - Berlin
 
 
 ------------
@@ -325,8 +327,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|14.03.23 | Igorrr, Amenra, Der Weg Einer Freiheit | ✅ |
-|18.03.23 | Cult Of Luna, Russian Circles | ✅ |
 |02.04.23 | Cannibal Corpse, Dark Funeral, Ingested, STORMRULER | [link](https://huxleysneuewelt.com/shows/cannibal-corpse) |
 |08.04.23 | Imperial Triumphant | ✅ |
 |13.04.23 | Wolves in the Throne Room, Stygian Bough | ✅ |

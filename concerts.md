@@ -321,6 +321,12 @@ My concerts timeline
 
 18/03 - Cult Of Luna, Russian Circles - Berlin
 
+08/04 - Imperial Triumphant - Berlin
+
+11/04 - LIK, Mass Worship - Berlin
+
+13/04 - Wolves in the Throne Room, ELR  - Berlin
+
 
 ------------
 ... scenes of the next chapters
@@ -329,14 +335,8 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|08.04.23 | Imperial Triumphant | ✅ |
-|11.04.23 | LIK, Mass Worship | ✅ |
-|13.04.23 | Wolves in the Throne Room, Stygian Bough | ✅ |
+|20.04.23 | Kadavar & Graveyard | [link](https://www.eventim.de/en/event/kadavar-graveyard-astra-kulturhaus-16051687/) |
 |27.04.23 | Portrayal of Guilt | [link](https://www.eventbrite.de/e/usu-pres-portrayal-of-guilt-muscle-worship-urban-spree-tickets-518819110927?aff=aff0bandsintown&bit_userid=${user_id}&appId=onaqfvagbja_rznvy_whfg_naabhaprq&comeFrom=162&artist_event_id=104063201) |
 |28.06.23 | Puscifer | ✅ |
-|29.10.23 | Kvelertak | [link](https://www.astra-berlin.de/) |
+|29.10.23 | Kvelertak | [link](https://www.eventim.de/event/kvelertak-astra-kulturhaus-16863419/) |
 |18.11.23 | Elder | [link](https://hole-berlin.de/event/elder/) |
-
-
-https://www.astra-berlin.de/
-

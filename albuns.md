@@ -4,7 +4,7 @@
 |Alice in Chains       |Dirt               |                 |          |
 |Der Weg einer Freiheit|Finisterre         |                 |          |
 |Heretoir              |Heretoir           |                 |          |
-|Katatonia             |City Burials       |                 |          |
+|Katatonia             |City Burials       |Tonight's Decision|          |
 |King Woman            |Celestial Blues    |                 |          |
 |Lacuna Coil           |In a Reviere       |Comalies         |          |
 |Les Discrets          |September          |                 |          |
@@ -14,6 +14,7 @@
 |Opeth                 |My Arms Your Harse |                 |          |
 |OST                   |Doom               |                 |          |
 |PJ Harvey             |Dry                |Bring you my Love|Ride of Me|
+|Puscifer              |Conditions of My Parole|                 |          |
 |Rammstein             |Reise Reise        |                 |          |
 |Russian Circles       |Gnosis             |                 |          |
 |Thou                  |Magus              |                 |          |

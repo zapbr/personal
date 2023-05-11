@@ -2,6 +2,7 @@
 |-|-|-|-|-|
 |Alcest                |Ecalies de Lune        |                  |            |                 |
 |Alice in Chains       |Dirt                   |                  |            |                 |
+|Amenra                |MASS VI                |                  |            |                 |
 |Der Weg einer Freiheit|Finisterre             |                  |            |                 |
 |Heretoir              |Heretoir               |                  |            |                 |
 |Katatonia             |Brave Murder Day       |Tonight's Decision|City Burials|Sky Void of Stars|
@@ -17,6 +18,7 @@
 |Puscifer              |Conditions of My Parole|                  |            |                 |
 |Rammstein             |Reise Reise            |                  |            |                 |
 |Russian Circles       |Gnosis                 |                  |            |                 |
+|Slipknot              |Iowa                   |                  |            |                 |
 |Thou                  |Magus                  |                  |            |                 |
-|Tool                  |AEnima                 |                  |            |                 |
+|Tool                  |Undertow               |AEnima            |            |                 |
 |Ulver                 |Mariage of H/H         |Flowers of Evil   |            |                 |

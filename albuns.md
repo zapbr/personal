@@ -20,5 +20,5 @@
 |Russian Circles       |Gnosis                 |                  |            |                 |
 |Slipknot              |Iowa                   |                  |            |                 |
 |Thou                  |Magus                  |                  |            |                 |
-|Tool                  |Undertow               |AEnima            |            |                 |
+|Tool                  |Undertow               |AEnima            |Lateralus   |                 |
 |Ulver                 |Mariage of H/H         |Flowers of Evil   |            |                 |

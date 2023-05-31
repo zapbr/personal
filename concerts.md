@@ -336,6 +336,7 @@ My concerts timeline
 |Date|Bands|Tickets|
 |-|-|-|
 |28.06.23 | Puscifer | ✅ |
+|23.07.23 | Mystifier | [link](https://www.koka36.de/Mystifier%20+%20Craven%20Idol_ticket_157719.html) |
 |07-09.09.23 | Prophecy Fest (Agalloch, Amenra, etc) | [link](https://fest.prophecy.de/?goal=0_858b0013cc-be997d46f6-89263536&mc_cid=be997d46f6&mc_eid=UNIQID) |
 |22.09.23 | Liturgy | [link](https://www.facebook.com/events/5790193681103433/) |
 |29.10.23 | Kvelertak | [link](https://www.eventim.de/event/kvelertak-astra-kulturhaus-16863419/) |

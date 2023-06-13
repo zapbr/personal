@@ -12,8 +12,8 @@
 |Lucifer               |IV                     |                  |            |                 |
 |Nine Inch Nails       |Pretty Hate Machine    |Downard Spiral    |Quake OST   |                 |
 |Nirvana               |Incesticide            |Unplugged         |Nevermind   |                 |
-|Opeth                 |My Arms Your Harse     |                  |            |                 |
-|OST                   |Doom                   |                  |            |                 |
+|Opeth                 |Orchid                 |Morningrise       |Blackwater Park|My Arms Your Harse |
+|OST                   |Doom                   |Hollow Knight     |            |                 |
 |PJ Harvey             |Dry                    |Bring you my Love |Ride of Me  |                 |
 |Puscifer              |Conditions of My Parole|                  |            |                 |
 |Rammstein             |Reise Reise            |                  |            |                 |
@@ -22,3 +22,7 @@
 |Thou                  |Magus                  |                  |            |                 |
 |Tool                  |Undertow               |AEnima            |Lateralus   |                 |
 |Ulver                 |Mariage of H/H         |Flowers of Evil   |            |                 |
+|Wolves in the Throne Room                     |Celestial Lineage |            |                 |
+
+
+# Total: *40*

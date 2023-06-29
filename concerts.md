@@ -327,6 +327,8 @@ My concerts timeline
 
 13/04 - Wolves in the Throne Room, ELR  - Berlin
 
+28/06 - Puscifer - Berlin
+
 
 ------------
 ... scenes of the next chapters
@@ -335,7 +337,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|28.06.23 | Puscifer | ✅ |
 |23.07.23 | Mystifier | [link](https://www.koka36.de/Mystifier%20+%20Craven%20Idol_ticket_157719.html) |
 |07-09.09.23 | Prophecy Fest (Agalloch, Amenra, etc) | ✅ |
 |22.09.23 | Liturgy | [link](https://www.facebook.com/events/5790193681103433/) |
@@ -346,5 +347,5 @@ My concerts timeline
 |11.11.23 | War Against War II - Heretoir, Batushka | [link](https://www.koka36.de/war-against-war-ii_ticket_152600.html) |
 |18.11.23 | Elder | [link](https://hole-berlin.de/event/elder/) |
 |21.11.23 | Swans | ✅ |
-|23.11.23 | Ufomammut | [link]() |
+|23.11.23 | Ufomammut | ✅ |
 

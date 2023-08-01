@@ -5,6 +5,7 @@
 |Amenra                |MASS VI                |                  |            |                 |
 |Der Weg einer Freiheit|Finisterre             |                  |            |                 |
 |Heretoir              |Heretoir               |                  |            |                 |
+|Iron Maiden           |7Th son of 7Th Son     |                  |            |                 |
 |Katatonia             |Brave Murder Day       |Tonight's Decision|City Burials|Sky Void of Stars|
 |King Woman            |Celestial Blues        |                  |            |                 |
 |Lacuna Coil           |In a Reviere           |Comalies          |            |                 |
@@ -15,14 +16,15 @@
 |Opeth                 |Orchid                 |Morningrise       |Blackwater Park|My Arms Your Harse |
 |OST                   |Doom                   |Hollow Knight     |            |                 |
 |PJ Harvey             |Dry                    |Bring you my Love |Ride of Me  |                 |
-|Puscifer              |Conditions of My Parole|                  |            |                 |
+|Puscifer              |Conditions of My Parole|Existential Reckoning |        |                 |
 |Rammstein             |Reise Reise            |                  |            |                 |
 |Russian Circles       |Gnosis                 |                  |            |                 |
 |Slipknot              |Iowa                   |                  |            |                 |
 |Thou                  |Magus                  |                  |            |                 |
 |Tool                  |Undertow               |AEnima            |Lateralus   |                 |
+|Ufomammut             |Fenice                 |                  |            |                 |
 |Ulver                 |Mariage of H/H         |Flowers of Evil   |            |                 |
 |Wolves in the Throne Room                     |Celestial Lineage |            |                 |
 
 
-# Total: *40*
+# Total: *43*

@@ -4,6 +4,7 @@
 |Alice in Chains       |Dirt                   |                  |            |                 |
 |Amenra                |MASS VI                |                  |            |                 |
 |Der Weg einer Freiheit|Finisterre             |                  |            |                 |
+|Dool                  |Here Now There Then    |                  |            |                 |
 |Heretoir              |Heretoir               |                  |            |                 |
 |Iron Maiden           |7Th son of 7Th Son     |                  |            |                 |
 |Katatonia             |Brave Murder Day       |Tonight's Decision|City Burials|Sky Void of Stars|
@@ -22,9 +23,9 @@
 |Slipknot              |Iowa                   |                  |            |                 |
 |Thou                  |Magus                  |                  |            |                 |
 |Tool                  |Undertow               |AEnima            |Lateralus   |                 |
-|Ufomammut             |Fenice                 |                  |            |                 |
+|Ufomammut             |Fenice (2x)            |                  |            |                 |
 |Ulver                 |Mariage of H/H         |Flowers of Evil   |            |                 |
 |Wolves in the Throne Room                     |Celestial Lineage |            |                 |
 
 
-# Total: *43*
+# Total: *45*

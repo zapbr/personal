@@ -349,4 +349,4 @@ My concerts timeline
 |18.11.23 | Elder | [link](https://hole-berlin.de/event/elder/) |
 |21.11.23 | Swans | ✅ |
 |23.11.23 | Ufomammut | ✅ |
-
+|26.11.23 | Cavalera Conspiracy | [link](https://metropol-berlin.de/event/cavalera-2213) |

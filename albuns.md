@@ -10,7 +10,7 @@
 |Katatonia             |Brave Murder Day       |Tonight's Decision|City Burials|Sky Void of Stars|
 |King Woman            |Celestial Blues        |                  |            |                 |
 |Lacuna Coil           |In a Reviere           |Comalies          |            |                 |
-|Les Discrets          |September              |                  |            |                 |
+|Les Discrets          |September (2x)         |                  |            |                 |
 |Lucifer               |IV                     |                  |            |                 |
 |Nine Inch Nails       |Pretty Hate Machine    |Downard Spiral    |Quake OST   |                 |
 |Nirvana               |Incesticide            |Unplugged         |Nevermind   |                 |
@@ -28,4 +28,4 @@
 |Wolves in the Throne Room                     |Celestial Lineage |            |                 |
 
 
-# Total: *45*
+# Total: *46*

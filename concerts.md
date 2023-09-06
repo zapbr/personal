@@ -350,3 +350,4 @@ My concerts timeline
 |21.11.23 | Swans | ✅ |
 |23.11.23 | Ufomammut | ✅ |
 |26.11.23 | Cavalera Conspiracy | [link](https://metropol-berlin.de/event/cavalera-2213) |
+|27.11.23 | AA Wilians | [link](https://metropol-berlin.de/event/cavalera-2213) |

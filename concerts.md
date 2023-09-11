@@ -325,10 +325,13 @@ My concerts timeline
 
 11/04 - LIK, Mass Worship - Berlin
 
-13/04 - Wolves in the Throne Room, ELR  - Berlin
+13/04 - Wolves in the Throne Room, ELR - Berlin
 
 28/06 - Puscifer - Berlin
 
+08/09 - Amenra - Prophecy Fest - Balve
+
+09/09 - Novembers Doom, Agalloch - Prophecy Fest - Balve
 
 ------------
 ... scenes of the next chapters
@@ -337,8 +340,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|23.07.23 | Mystifier | [link](https://www.koka36.de/Mystifier%20+%20Craven%20Idol_ticket_157719.html) |
-|07-09.09.23 | Prophecy Fest (Agalloch, Amenra, etc) | ✅ |
 |22.09.23 | Liturgy | [link](https://www.facebook.com/events/5790193681103433/) |
 |03.10.23 | Harakiri for the sky | [link]() |
 |22.10.23 | PJ Harvey | ✅ |
@@ -351,3 +352,5 @@ My concerts timeline
 |23.11.23 | Ufomammut | ✅ |
 |26.11.23 | Cavalera Conspiracy | [link](https://metropol-berlin.de/event/cavalera-2213) |
 |27.11.23 | AA Wilians | [link](https://www.greyzone-tickets.de/produkte/771) |
+|28.01.24 | Abbath | [link](https://www.eventim.de/noapp/event/17587364/?affiliate=BNO&affiliate=BNO&utm_source=awin&utm_medium=affiliate&utm_campaign=97249&awc=11388_1694422280_70047250c89821e0f409e125b5bb6016) |
+

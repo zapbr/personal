@@ -1,31 +1,162 @@
-|Artist                | Albums ||||
-|-|-|-|-|-|
-|Alcest                |Ecalies de Lune        |                  |            |                 |
-|Alice in Chains       |Dirt                   |                  |            |                 |
-|Amenra                |MASS VI                |                  |            |                 |
-|Der Weg einer Freiheit|Finisterre             |                  |            |                 |
-|Dool                  |Here Now There Then    |                  |            |                 |
-|Heretoir              |Heretoir               |                  |            |                 |
-|Iron Maiden           |7Th son of 7Th Son     |                  |            |                 |
-|Katatonia             |Brave Murder Day       |Tonight's Decision|City Burials|Sky Void of Stars|
-|King Woman            |Celestial Blues        |                  |            |                 |
-|Lacuna Coil           |In a Reviere           |Comalies          |            |                 |
-|Les Discrets          |September (2x)         |                  |            |                 |
-|Lucifer               |IV                     |                  |            |                 |
-|Nine Inch Nails       |Pretty Hate Machine    |Downard Spiral    |Quake OST   |                 |
-|Nirvana               |Incesticide            |Unplugged         |Nevermind   |                 |
-|Opeth                 |Orchid                 |Morningrise       |Blackwater Park|My Arms Your Harse |
-|OST                   |Doom                   |Hollow Knight     |            |                 |
-|PJ Harvey             |Dry                    |Bring you my Love |Ride of Me  |                 |
-|Puscifer              |Conditions of My Parole|Existential Reckoning |        |                 |
-|Rammstein             |Reise Reise            |                  |            |                 |
-|Russian Circles       |Gnosis                 |                  |            |                 |
-|Slipknot              |Iowa                   |                  |            |                 |
-|Thou                  |Magus                  |                  |            |                 |
-|Tool                  |Undertow               |AEnima            |Lateralus   |                 |
-|Ufomammut             |Fenice (2x)            |                  |            |                 |
-|Ulver                 |Mariage of H/H         |Flowers of Evil   |            |                 |
-|Wolves in the Throne Room                     |Celestial Lineage |            |                 |
 
+# Albuns 
 
-# Total: *46*
+### Total: 50
+
+[Alcest](#Alcest) •
+[Alice in Chains](#Alice-in-Chains) •
+[Amenra](#Amenra) •
+[Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
+[Dool](#Dool) •
+[Heretoir](#Heretoir) •
+[Iron Maiden ](#Iron-Maiden) •
+[Katatonia](#Katatonia) •
+[King Woman](#King-Woman) •
+[Lacuna Coil](#Lacuna-Coil) •
+[Les Discrets](#Les-Discrets) •
+[Lucifer ](#Lucifer) •
+[Nine Inch Nails](#NIN) •
+[Nirvana](#Nirvana) •
+[Opeth](#Opeth) •
+[Original Game Sound Track](#OGST) •
+[PJ Harvey](#PJ-Harvey) •
+[Puscifer](#Puscifer) •
+[Rammstein](#Rammstein) •
+[Russian Circles](#Russian-Circles) •
+[Slipknot](#Slipknot) •
+[Thou](#Thou) •
+[Tool](#Tool) •
+[Ufomammut](#Ufomammut) •
+[Ulver](#Ulver) •
+[Wolves in the Throne Room](#Wolves-in-the-Throne-Room)
+
+## Agalloch
+
+* Pale Folklore
+* Of Stone, Wind, and Pillor
+* The Serpent & the Sphere
+
+## Alcest
+
+* Ecalies de Lune
+
+## Alice in Chains
+
+* Dirt
+
+## Amenra
+
+* MASS VI 
+
+## Der Weg einer Freiheit
+
+* Finisterre
+
+## Dool
+
+* Here Now There Then
+
+## Heretoir
+
+* Heretoir
+
+## Iron Maiden 
+
+* Seventh Son of a Seventh Son
+
+## Katatonia
+
+* Brave Murder Day
+* Tonight's Decision
+* City Burials
+* Sky Void of Stars
+
+## King Woman
+
+* Celestial Blues 
+
+## Lacuna Coil
+
+* In a Reviere
+* Comalies
+
+## Les Discrets
+
+* Septembre et Ses Dernières Pensées 
+* Septembre et Ses Dernières Pensées ( Brown )
+
+## Lucifer 
+
+* IV
+
+## Nine Inch Nails
+
+* Pretty Hate Machine
+* Broken
+* Downard Spiral 
+
+## Nirvana
+
+* Nevermind
+* Incesticide
+* Unplugged
+
+## Opeth
+
+* Orchid
+* Morningrise
+* Blackwater Park
+* My Arms Your Harse
+
+## Original Game Sound Track
+
+* Quake OST
+* Doom
+* Hollow Knight
+
+## PJ Harvey
+
+* Dry
+* Bring you my Love
+* Ride of Me
+
+## Puscifer
+
+* Conditions of My Parole
+* Existential Reckoning
+
+## Rammstein
+
+* Reise Reise
+
+## Russian Circles
+
+* Gnosis
+
+## Slipknot
+
+* Iowa
+
+## Thou
+
+* Magus
+
+## Tool
+
+* Undertow
+* AEnima
+* Lateralus
+
+## Ufomammut
+
+* Fenice
+* Fenice (Glow in the dark)
+
+## Ulver
+
+* Mariage of Heaven and Hell 
+* Flowers of Evil
+
+## Wolves in the Throne Room
+
+* Celestial Lineage

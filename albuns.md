@@ -15,10 +15,10 @@
 [Lacuna Coil](#Lacuna-Coil) •
 [Les Discrets](#Les-Discrets) •
 [Lucifer ](#Lucifer) •
-[Nine Inch Nails](#NIN) •
+[Nine Inch Nails](#Nine-Inch-Nails) •
 [Nirvana](#Nirvana) •
 [Opeth](#Opeth) •
-[Original Game Sound Track](#OGST) •
+[Original Game Sound Track](#Original-Game-Sound-Track) •
 [PJ Harvey](#PJ-Harvey) •
 [Puscifer](#Puscifer) •
 [Rammstein](#Rammstein) •

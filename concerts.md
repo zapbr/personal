@@ -340,8 +340,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|22.09.23 | Liturgy | [link](https://www.facebook.com/events/5790193681103433/) |
-|03.10.23 | Harakiri for the sky | [link]() |
 |22.10.23 | PJ Harvey | ✅ |
 |29.10.23 | Kvelertak | [link](https://www.eventim.de/event/kvelertak-astra-kulturhaus-16863419/) |
 |02.11.23 | Protomartyr | [link](https://hole-berlin.de/event/protomartyr/) |

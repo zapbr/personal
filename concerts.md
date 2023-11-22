@@ -337,6 +337,10 @@ My concerts timeline
 
 03/11 - Titãs - Lisboa
 
+18/11 - Elder - Berlin
+
+21/11 - Swans - Berlin
+
 
 ------------
 ... scenes of the next chapters
@@ -345,8 +349,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|18.11.23 | Elder | ✅ |
-|21.11.23 | Swans | ✅ |
 |23.11.23 | Ufomammut | ✅ |
 |26.11.23 | Cavalera Conspiracy | [link](https://metropol-berlin.de/event/cavalera-2213) |
 |27.11.23 | AA Wilians | [link](https://www.greyzone-tickets.de/produkte/771) |

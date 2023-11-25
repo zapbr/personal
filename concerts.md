@@ -1,11 +1,9 @@
 # Concerts
 My concerts timeline
 
-## 1995
-
-??/11 - Raimundos - Belo Horizonte
-
 ## 1996
+
+14/09 - Raimundos - Belo Horizonte
 
 08/12 - Megadeth, Whitesnake, Queensryche - Belo Horizonte
 
@@ -13,8 +11,9 @@ My concerts timeline
 
 07/11 - Planet Hemp - Belo Horizonte
 
-
 ## 1998
+
+05/11 - Green Day - Belo Horizonte
 
 05/12 - Iron Maiden - São Paulo
 
@@ -28,6 +27,8 @@ My concerts timeline
 09/05 - Metallica - São Paulo
 
 09/05 - Sepultura - São Paulo
+
+14/08 - Raimundos - Belo Horizonte
 
 20/11 - Offspring - São Paulo
 
@@ -341,6 +342,8 @@ My concerts timeline
 
 21/11 - Swans - Berlin
 
+23/11 - Ufomammut - Berlin
+
 
 ------------
 ... scenes of the next chapters
@@ -349,9 +352,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|23.11.23 | Ufomammut | ✅ |
-|26.11.23 | Cavalera Conspiracy | [link](https://metropol-berlin.de/event/cavalera-2213) |
-|27.11.23 | AA Wilians | [link](https://www.greyzone-tickets.de/produkte/771) |
 |28.01.24 | Abbath | [link](https://www.eventim.de/noapp/event/17587364/?affiliate=BNO&affiliate=BNO&utm_source=awin&utm_medium=affiliate&utm_campaign=97249&awc=11388_1694422280_70047250c89821e0f409e125b5bb6016) |
 |04.02.24 | Lucifer | ✅ |
 |16.03.24 | Meshuggah | [link](https://www.eventim.de/event/meshuggah-the-halo-effect-mantar-columbiahalle-17668043/?affiliate=MRV) |

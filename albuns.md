@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 50
+### Total: 51
 
 [Alcest](#Alcest) •
 [Alice in Chains](#Alice-in-Chains) •
@@ -156,6 +156,7 @@
 
 * Mariage of Heaven and Hell 
 * Flowers of Evil
+* Blood Inside
 
 ## Wolves in the Throne Room
 

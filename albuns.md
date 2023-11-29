@@ -1,13 +1,14 @@
 
 # Albuns 
 
-### Total: 51
+### Total: 52
 
 [Alcest](#Alcest) •
 [Alice in Chains](#Alice-in-Chains) •
 [Amenra](#Amenra) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
 [Dool](#Dool) •
+[Heead Control System](#Heead-Control-System) •
 [Heretoir](#Heretoir) •
 [Iron Maiden ](#Iron-Maiden) •
 [Katatonia](#Katatonia) •
@@ -55,6 +56,10 @@
 ## Dool
 
 * Here Now There Then
+
+## Heead Control System
+
+* Murder Nature
 
 ## Heretoir
 

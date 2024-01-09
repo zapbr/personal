@@ -356,6 +356,7 @@ My concerts timeline
 |04.02.24 | Lucifer | ✅ |
 |16.03.24 | Meshuggah | [link](https://www.eventim.de/event/meshuggah-the-halo-effect-mantar-columbiahalle-17668043/?affiliate=MRV) |
 |23.03.24 | Enslaved | [link](https://shop.myticket.de/selection/event/seat?perfId=10228951369839&productId=10228951362062&lang=en&tourId=10228951553656) |
+|07.06.24 | Wolfes In The Throne Room, Gaerea | --- |
 |08.06.24 | TOOL | ✅ |
 |05.08.24 | Opeth - Frankfurt | [link](https://www.eventim.de/artist/opeth/)  |
 |06.08.24 | Opeth - Dortmund | [link](https://www.eventim.de/artist/opeth/)  |

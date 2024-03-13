@@ -344,6 +344,10 @@ My concerts timeline
 
 23/11 - Ufomammut - Berlin
 
+## 2024
+
+04/02 - Lucifer - Berlin
+
 
 ------------
 ... scenes of the next chapters
@@ -352,13 +356,14 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|28.01.24 | Abbath | [link](https://www.eventim.de/noapp/event/17587364/?affiliate=BNO&affiliate=BNO&utm_source=awin&utm_medium=affiliate&utm_campaign=97249&awc=11388_1694422280_70047250c89821e0f409e125b5bb6016) |
-|04.02.24 | Lucifer | ✅ |
 |16.03.24 | Meshuggah | [link](https://www.eventim.de/event/meshuggah-the-halo-effect-mantar-columbiahalle-17668043/?affiliate=MRV) |
 |23.03.24 | Enslaved | [link](https://shop.myticket.de/selection/event/seat?perfId=10228951369839&productId=10228951362062&lang=en&tourId=10228951553656) |
-|07.06.24 | Wolfes In The Throne Room, Gaerea | --- |
+|07.06.24 | Wolfes In The Throne Room, Gaerea | [link](https://columbia-theater.de/event/wolfes-in-the-throne-room/) |
 |08.06.24 | TOOL | ✅ |
+|01.08.24 | Korn | - |
 |05.08.24 | Opeth - Frankfurt | [link](https://www.eventim.de/artist/opeth/)  |
 |06.08.24 | Opeth - Dortmund | [link](https://www.eventim.de/artist/opeth/)  |
 |13.08.24 | PJ Harvey | [link](https://pjharvey.net/live/) |
+|23.11.24 | Alcest | - |
+
 

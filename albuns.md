@@ -1,12 +1,13 @@
 
 # Albuns 
 
-### Total: 52
+### Total: 55
 
 [Alcest](#Alcest) •
 [Alice in Chains](#Alice-in-Chains) •
 [Amenra](#Amenra) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
+[Dio](#Dio) •
 [Dool](#Dool) •
 [Heead Control System](#Heead-Control-System) •
 [Heretoir](#Heretoir) •
@@ -53,6 +54,10 @@
 
 * Finisterre
 
+## Dio
+
+* Live at Donington 
+  
 ## Dool
 
 * Here Now There Then
@@ -93,6 +98,7 @@
 ## Lucifer 
 
 * IV
+* V
 
 ## Nine Inch Nails
 
@@ -159,6 +165,7 @@
 
 ## Ulver
 
+* Kveldssanger
 * Mariage of Heaven and Hell 
 * Flowers of Evil
 * Blood Inside

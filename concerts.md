@@ -366,5 +366,6 @@ My concerts timeline
 |13.08.24 | PJ Harvey | [link](https://pjharvey.net/live/) |
 |31.10.24 | Dark Tranquillity, Moonspell | [link](https://www.eventim.de/event/dark-tranquillity-astra-kulturhaus-18415852/) |
 |23.11.24 | Alcest | - |
+|09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |
 
 

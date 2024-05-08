@@ -350,9 +350,7 @@ My concerts timeline
 
 
 ------------
-... scenes of the next chapters
-
-------------
+## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|

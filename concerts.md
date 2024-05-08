@@ -364,6 +364,7 @@ My concerts timeline
 |05.08.24 | Opeth - Frankfurt | [link](https://www.eventim.de/artist/opeth/)  |
 |06.08.24 | Opeth - Dortmund | [link](https://www.eventim.de/artist/opeth/)  |
 |13.08.24 | PJ Harvey | [link](https://pjharvey.net/live/) |
+|29.08.24 | Emma Ruth Rundle | [link](https://www.lido-berlin.de/events/2024-08-29-emma-ruth-rundle) |
 |31.10.24 | Dark Tranquillity, Moonspell | [link](https://www.eventim.de/event/dark-tranquillity-astra-kulturhaus-18415852/) |
 |23.11.24 | Alcest | - |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |

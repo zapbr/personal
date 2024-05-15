@@ -1,9 +1,11 @@
 
 # Albuns 
 
-### Total: 55
+### Total: 59
 
+[Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
+[Ameseurs](#Ameseurs) •
 [Alice in Chains](#Alice-in-Chains) •
 [Amenra](#Amenra) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
@@ -42,6 +44,10 @@
 
 * Ecalies de Lune
 
+## Ameseurs
+
+* Ameseurs
+
 ## Alice in Chains
 
 * Dirt
@@ -77,6 +83,7 @@
 ## Katatonia
 
 * Brave Murder Day
+* Dicouraged Ones
 * Tonight's Decision
 * City Burials
 * Sky Void of Stars
@@ -108,6 +115,7 @@
 
 ## Nirvana
 
+* Bleach
 * Nevermind
 * Incesticide
 * Unplugged
@@ -118,6 +126,7 @@
 * Morningrise
 * Blackwater Park
 * My Arms Your Harse
+* Damnation
 
 ## Original Game Sound Track
 

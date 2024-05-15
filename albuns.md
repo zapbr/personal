@@ -5,7 +5,7 @@
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
-[Ameseurs](#Ameseurs) •
+[Amesoeurs](#Amesoeurs) •
 [Alice in Chains](#Alice-in-Chains) •
 [Amenra](#Amenra) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
@@ -44,9 +44,9 @@
 
 * Ecalies de Lune
 
-## Ameseurs
+## Amesoeurs
 
-* Ameseurs
+* Amesoeurs
 
 ## Alice in Chains
 

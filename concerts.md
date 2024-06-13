@@ -347,7 +347,9 @@ My concerts timeline
 ## 2024
 
 04/02 - Lucifer - Berlin
+
 07/06 - Wolfes In The Throne Room, Gaerea - Berlin
+
 08/06 - TOOL
 
 

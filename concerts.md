@@ -347,6 +347,8 @@ My concerts timeline
 ## 2024
 
 04/02 - Lucifer - Berlin
+07/06 - Wolfes In The Throne Room, Gaerea - Berlin
+08/06 - TOOL
 
 
 ------------
@@ -354,16 +356,11 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|16.03.24 | Meshuggah | [link](https://www.eventim.de/event/meshuggah-the-halo-effect-mantar-columbiahalle-17668043/?affiliate=MRV) |
-|23.03.24 | Enslaved | [link](https://shop.myticket.de/selection/event/seat?perfId=10228951369839&productId=10228951362062&lang=en&tourId=10228951553656) |
-|07.06.24 | Wolfes In The Throne Room, Gaerea | [link](https://columbia-theater.de/event/wolfes-in-the-throne-room/) |
-|08.06.24 | TOOL | ✅ |
 |01.08.24 | Korn | - |
-|05.08.24 | Opeth - Frankfurt | [link](https://www.eventim.de/artist/opeth/)  |
-|06.08.24 | Opeth - Dortmund | [link](https://www.eventim.de/artist/opeth/)  |
 |13.08.24 | PJ Harvey | [link](https://pjharvey.net/live/) |
 |29.08.24 | Emma Ruth Rundle | [link](https://www.lido-berlin.de/events/2024-08-29-emma-ruth-rundle) |
-|02.10.24 | Baroness | [link](https://trinitymusic.de/events/berlin/baroness-graveyard) |
+|09.10.24 | Russian Circles | -- |
 |31.10.24 | Dark Tranquillity, Moonspell | [link](https://www.eventim.de/event/dark-tranquillity-astra-kulturhaus-18415852/) |
+|02.11.24 | Baroness | [link](https://trinitymusic.de/events/berlin/baroness-graveyard) |
 |23.11.24 | Alcest | [link](https://www.eventim.de/event/alcest-festsaal-kreuzberg-18326782/) |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |

@@ -360,8 +360,10 @@ My concerts timeline
 |-|-|-|
 |09.10.24 | Russian Circles | -- |
 |16.10.24 | DOOL | [link](https://hole-berlin.de/event/dool-hangmans-chair/) |
+|22.10.24 | MESSA | [link](https://www.cassiopeia-berlin.de/event/messa) |
 |31.10.24 | Dark Tranquillity, Moonspell | [link](https://www.eventim.de/event/dark-tranquillity-astra-kulturhaus-18415852/) |
 |02.11.24 | Baroness | [link](https://trinitymusic.de/events/berlin/baroness-graveyard) |
 |23.11.24 | Alcest | [link](https://www.eventim.de/event/alcest-festsaal-kreuzberg-18326782/) |
 |06.12.24 | AMENRA | [link](https://www.greyzone-tickets.de/produkte/941) |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |
+|18.02.25 | OPETH | [link](https://oranssipazuzu.com/live) |

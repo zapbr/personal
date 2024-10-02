@@ -367,3 +367,4 @@ My concerts timeline
 |06.12.24 | AMENRA | [link](https://www.greyzone-tickets.de/produkte/941) |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |
 |18.02.25 | OPETH | [link](https://oranssipazuzu.com/live) |
+|24.04.25 | GAEREA | - |

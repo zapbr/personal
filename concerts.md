@@ -350,7 +350,9 @@ My concerts timeline
 
 07/06 - Wolfes In The Throne Room, Gaerea - Berlin
 
-08/06 - TOOL
+08/06 - TOOL - Berlin
+
+09/10 - Russian Circles - Berlin
 
 
 ------------
@@ -358,8 +360,7 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|09.10.24 | Russian Circles | ✅ |
-|16.10.24 | DOOL | [link](https://hole-berlin.de/event/dool-hangmans-chair/) |
+|16.10.24 | DOOL | ✅ |
 |22.10.24 | MESSA | [link](https://www.cassiopeia-berlin.de/event/messa) |
 |31.10.24 | Dark Tranquillity, Moonspell | [link](https://www.eventim.de/event/dark-tranquillity-astra-kulturhaus-18415852/) |
 |02.11.24 | Baroness | [link](https://trinitymusic.de/events/berlin/baroness-graveyard) |

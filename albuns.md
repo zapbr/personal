@@ -38,6 +38,7 @@
 
 * Pale Folklore
 * Of Stone, Wind, and Pillor
+* The Mantle
 * The Serpent & the Sphere
 
 ## Alcest

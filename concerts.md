@@ -3,15 +3,17 @@ My concerts timeline
 
 ## 1996
 
-14/09 - Raimundos - Belo Horizonte
-
-08/12 - Megadeth, Whitesnake, Queensryche - Belo Horizonte
+13/09 - Raimundos - Belo Horizonte
 
 ## 1997
 
 07/11 - Planet Hemp - Belo Horizonte
 
+08/12 - Megadeth, Whitesnake, Queensryche - Belo Horizonte
+
 ## 1998
+
+28/03 - Raimundos - Belo Horizonte
 
 05/11 - Green Day - Belo Horizonte
 
@@ -20,7 +22,6 @@ My concerts timeline
 05/12 - Halloween - São Paulo
 
 05/12 - Raimundos - São Paulo
-
 
 ## 1999
 

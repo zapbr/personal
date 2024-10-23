@@ -357,14 +357,15 @@ My concerts timeline
 
 16/10 - DOOL - Berlin
 
+22/10 - MESSA - Berlin
+
 
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|22.10.24 | MESSA | ✅ |
-|02.11.24 | Baroness | [link](https://trinitymusic.de/events/berlin/baroness-graveyard) |
+|02.11.24 | Baroness | ✅ |
 |23.11.24 | Alcest | [link](https://www.eventim.de/event/alcest-festsaal-kreuzberg-18326782/) |
 |06.12.24 | AMENRA | [link](https://www.greyzone-tickets.de/produkte/941) |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |

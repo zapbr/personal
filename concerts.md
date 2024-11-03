@@ -359,13 +359,14 @@ My concerts timeline
 
 22/10 - MESSA - Berlin
 
+02/11 - Baroness - Berlin
+
 
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|02.11.24 | Baroness | ✅ |
 |23.11.24 | Alcest | [link](https://www.eventim.de/event/alcest-festsaal-kreuzberg-18326782/) |
 |06.12.24 | AMENRA | [link](https://www.greyzone-tickets.de/produkte/941) |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | [link](https://oranssipazuzu.com/live) |

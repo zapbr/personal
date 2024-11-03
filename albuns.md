@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 59
+### Total: 61
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -19,6 +19,7 @@
 [Lacuna Coil](#Lacuna-Coil) •
 [Les Discrets](#Les-Discrets) •
 [Lucifer ](#Lucifer) •
+[Messa ](#Messa) •
 [Nine Inch Nails](#Nine-Inch-Nails) •
 [Nirvana](#Nirvana) •
 [Opeth](#Opeth) •
@@ -68,6 +69,7 @@
 ## Dool
 
 * Here Now There Then
+* Shape of Fluidity
 
 ## Heead Control System
 
@@ -107,6 +109,10 @@
 
 * IV
 * V
+
+## Messa
+
+* Closer
 
 ## Nine Inch Nails
 

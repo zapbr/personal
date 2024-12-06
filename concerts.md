@@ -367,7 +367,7 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|06.12.24 | AMENRA | [link](https://www.greyzone-tickets.de/produkte/941) |
 |09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | ✅ |
 |18.02.25 | OPETH | ✅ |
 |24.04.25 | GAEREA | - |
+|29.04.25 | Zeal & Ardor | (link)[https://www.astra-berlin.de/events/2025-04-29-zeal---ardor] |

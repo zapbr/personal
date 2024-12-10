@@ -361,13 +361,13 @@ My concerts timeline
 
 02/11 - Baroness - Berlin
 
+09/12 - Oranssi Pazuzu - Berlin
 
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|09.12.24 | SÓLSTAFIR, Oranssi Pazuzu | ✅ |
 |18.02.25 | OPETH | ✅ |
 |24.04.25 | GAEREA | - |
 |29.04.25 | Zeal & Ardor | [link](https://www.astra-berlin.de/events/2025-04-29-zeal---ardor) |

@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 61
+### Total: 63
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -81,7 +81,9 @@
 
 ## Iron Maiden 
 
+* Powerslave
 * Seventh Son of a Seventh Son
+  
 
 ## Katatonia
 
@@ -134,6 +136,7 @@
 * Blackwater Park
 * My Arms Your Harse
 * Damnation
+* Last Will and Testament
 
 ## Original Game Sound Track
 

@@ -372,10 +372,12 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
+|06.04.25 | Negative Plane | [link](https://neue-zukunft.org/) |
 |08.04.25 | Harakiri for the sky | [link](https://www.lido-berlin.de/events/2025-04-08-harakiri-for-the-sky) |
 |16.04.25 | Swallow The Sun  | [link](https://www.cassiopeia-berlin.de/event/swallow-the-sun) |
 |24.04.25 | GAEREA | - |
 |29.04.25 | Zeal & Ardor | [link](https://www.astra-berlin.de/events/2025-04-29-zeal---ardor) |
+|05.06.25 | Pentagram | [[link]](https://www.greyzone-tickets.de/produkte/1039) |
 |06.05.25 | Chat Pile | [link](https://www.so36.com/produkte/75831-tickets-chat-pile-agriculture-so36-berlin-am-06-05-2025) |
 |23.06.25 | Slipknot | https://www.eventim.de/event/slipknot-open-air-2025-waldbuehne-berlin-19383019/ |
 |01.07.25 | NINE INCH NAILS | ✅ |

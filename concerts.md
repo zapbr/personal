@@ -366,15 +366,13 @@ My concerts timeline
 ## 2025
 
 18/02 - Opeth - Berlin
+06/04 - Negative Plane - Berlin
 
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|06.04.25 | Negative Plane | [link](https://neue-zukunft.org/) |
-|08.04.25 | Harakiri for the sky | [link](https://www.lido-berlin.de/events/2025-04-08-harakiri-for-the-sky) |
-|16.04.25 | Swallow The Sun  | [link](https://www.cassiopeia-berlin.de/event/swallow-the-sun) |
 |24.04.25 | GAEREA | - |
 |29.04.25 | Zeal & Ardor | [link](https://www.astra-berlin.de/events/2025-04-29-zeal---ardor) |
 |05.06.25 | Pentagram | [[link]](https://www.greyzone-tickets.de/produkte/1039) |

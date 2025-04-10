@@ -381,5 +381,6 @@ My concerts timeline
 |01.07.25 | NINE INCH NAILS | ✅ |
 |08.07.25 | Massive Attack | https://www.eventim.de/artist/massive-attack/?affiliate=VB1 |
 |05.08.25 | Oranssi Pazuzu | [link](https://www.binuu.de/events/2025-08-05-oranssi-pazuzu) |
+|12.08.25 | KING WOMAN | ✅ |
 |03.11.25 | Lacuna Coil | https://www.eventim.de/event/lacuna-coil-huxleys-neue-welt-19761377/?affiliate=TMT |
 

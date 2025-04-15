@@ -366,6 +366,7 @@ My concerts timeline
 ## 2025
 
 18/02 - Opeth - Berlin
+
 06/04 - Negative Plane - Berlin
 
 ------------

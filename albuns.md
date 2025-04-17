@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 63
+### Total: 64
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -23,7 +23,7 @@
 [Nine Inch Nails](#Nine-Inch-Nails) •
 [Nirvana](#Nirvana) •
 [Opeth](#Opeth) •
-[Original Game Sound Track](#Original-Game-Sound-Track) •
+[Original Sound Track](#Original-Sound-Track) •
 [PJ Harvey](#PJ-Harvey) •
 [Puscifer](#Puscifer) •
 [Rammstein](#Rammstein) •
@@ -138,11 +138,12 @@
 * Damnation
 * Last Will and Testament
 
-## Original Game Sound Track
+## Original Sound Track
 
 * Quake OST
 * Doom
 * Hollow Knight
+* Nosferatu
 
 ## PJ Harvey
 

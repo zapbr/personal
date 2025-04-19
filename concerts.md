@@ -369,6 +369,8 @@ My concerts timeline
 
 06/04 - Negative Plane - Berlin
 
+16/04 - Swallow the Sun - Berlin
+
 ------------
 ## ... scenes of the next chapters
 

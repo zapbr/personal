@@ -376,8 +376,6 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|24.04.25 | GAEREA | - |
-|29.04.25 | Zeal & Ardor | [link](https://www.astra-berlin.de/events/2025-04-29-zeal---ardor) |
 |05.06.25 | Pentagram | [[link]](https://www.greyzone-tickets.de/produkte/1039) |
 |06.05.25 | Chat Pile | [link](https://www.so36.com/produkte/75831-tickets-chat-pile-agriculture-so36-berlin-am-06-05-2025) |
 |23.06.25 | Slipknot | https://www.eventim.de/event/slipknot-open-air-2025-waldbuehne-berlin-19383019/ |
@@ -386,4 +384,5 @@ My concerts timeline
 |05.08.25 | Oranssi Pazuzu | [link](https://www.binuu.de/events/2025-08-05-oranssi-pazuzu) |
 |12.08.25 | KING WOMAN | ✅ |
 |03.11.25 | Lacuna Coil | https://www.eventim.de/event/lacuna-coil-huxleys-neue-welt-19761377/?affiliate=TMT |
+|19.11.25 | Katatonia | [link](https://huxleysneuewelt.de/event/katatonia) |
 

@@ -379,6 +379,7 @@ My concerts timeline
 |05.06.25 | Pentagram | [[link]](https://www.greyzone-tickets.de/produkte/1039) |
 |06.05.25 | Chat Pile | [link](https://www.so36.com/produkte/75831-tickets-chat-pile-agriculture-so36-berlin-am-06-05-2025) |
 |23.06.25 | Slipknot | https://www.eventim.de/event/slipknot-open-air-2025-waldbuehne-berlin-19383019/ |
+|29.06.25 | Lucifer | [link] |
 |01.07.25 | NINE INCH NAILS | ✅ |
 |08.07.25 | Massive Attack | https://www.eventim.de/artist/massive-attack/?affiliate=VB1 |
 |05.08.25 | Oranssi Pazuzu | [link](https://www.binuu.de/events/2025-08-05-oranssi-pazuzu) |

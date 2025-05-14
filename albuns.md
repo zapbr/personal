@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 64
+### Total: 65
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -136,6 +136,7 @@
 * Blackwater Park
 * My Arms Your Harse
 * Damnation
+* Ghost Reveries
 * Last Will and Testament
 
 ## Original Sound Track

@@ -91,6 +91,8 @@ My concerts timeline
 
 03/02 - Arch Enemy - Belo Horizonte
 
+## 2008
+
 02/03 - Iron Maiden - São Paulo
 
 
@@ -349,7 +351,7 @@ My concerts timeline
 
 04/02 - Lucifer - Berlin
 
-07/06 - Wolfes In The Throne Room, Gaerea - Berlin
+07/06 - Wolves in the Throne Room, Gaerea - Berlin
 
 08/06 - TOOL - Berlin
 

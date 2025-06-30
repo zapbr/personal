@@ -373,19 +373,20 @@ My concerts timeline
 
 16/04 - Swallow the Sun - Berlin
 
+29/06 - Lucifer - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|05.06.25 | Pentagram | [[link]](https://www.greyzone-tickets.de/produkte/1039) |
-|06.05.25 | Chat Pile | [link](https://www.so36.com/produkte/75831-tickets-chat-pile-agriculture-so36-berlin-am-06-05-2025) |
-|23.06.25 | Slipknot | https://www.eventim.de/event/slipknot-open-air-2025-waldbuehne-berlin-19383019/ |
-|29.06.25 | Lucifer | [link] |
 |01.07.25 | NINE INCH NAILS | ✅ |
 |08.07.25 | Massive Attack | https://www.eventim.de/artist/massive-attack/?affiliate=VB1 |
 |05.08.25 | Oranssi Pazuzu | [link](https://www.binuu.de/events/2025-08-05-oranssi-pazuzu) |
 |12.08.25 | KING WOMAN | ✅ |
+|05.10.25 | Dark Tranquillity | - |
+|22.10.25 | Gaerea | - |
 |03.11.25 | Lacuna Coil | https://www.eventim.de/event/lacuna-coil-huxleys-neue-welt-19761377/?affiliate=TMT |
 |19.11.25 | Katatonia | [link](https://huxleysneuewelt.de/event/katatonia) |
+|25.02.26 | A.A. Williams | - |
 

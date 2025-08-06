@@ -377,13 +377,13 @@ My concerts timeline
 
 01/07 - Nine Inch Nails - Berlin
 
+05/08 - Oranssi Pazuzu - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|08.07.25 | Massive Attack | https://www.eventim.de/artist/massive-attack/?affiliate=VB1 |
-|05.08.25 | Oranssi Pazuzu | [link](https://www.binuu.de/events/2025-08-05-oranssi-pazuzu) |
 |12.08.25 | KING WOMAN | ✅ |
 |05.10.25 | Dark Tranquillity | - |
 |22.10.25 | Gaerea | - |

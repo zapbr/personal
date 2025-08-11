@@ -385,6 +385,7 @@ My concerts timeline
 |Date|Bands|Tickets|
 |-|-|-|
 |12.08.25 | KING WOMAN | ✅ |
+|19.09.25 | Der Weg einer Freiheit | [link](https://vertikalconcerts.com/konzerte/der-weg-einer-freiheit-b-25) |
 |05.10.25 | Dark Tranquillity | - |
 |22.10.25 | Gaerea | - |
 |03.11.25 | Lacuna Coil | https://www.eventim.de/event/lacuna-coil-huxleys-neue-welt-19761377/?affiliate=TMT |

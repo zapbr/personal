@@ -379,12 +379,13 @@ My concerts timeline
 
 05/08 - Oranssi Pazuzu - Berlin
 
+12/08 - King Woman - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|12.08.25 | KING WOMAN | ✅ |
 |19.09.25 | Der Weg einer Freiheit | [link](https://vertikalconcerts.com/konzerte/der-weg-einer-freiheit-b-25) |
 |05.10.25 | Dark Tranquillity | - |
 |22.10.25 | Gaerea | - |

@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 65
+### Total: 66
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -40,6 +40,7 @@
 * Pale Folklore
 * Of Stone, Wind, and Pillor
 * The Mantle
+* Ashes Against the Grain
 * The Serpent & the Sphere
 
 ## Alcest

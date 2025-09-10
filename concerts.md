@@ -386,10 +386,10 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
-|19.09.25 | Der Weg einer Freiheit | [link](https://vertikalconcerts.com/konzerte/der-weg-einer-freiheit-b-25) |
+|19.09.25 | Der Weg einer Freiheit | - |
 |05.10.25 | Dark Tranquillity | - |
 |22.10.25 | Gaerea | - |
 |03.11.25 | Lacuna Coil | https://www.eventim.de/event/lacuna-coil-huxleys-neue-welt-19761377/?affiliate=TMT |
 |19.11.25 | Katatonia | [link](https://huxleysneuewelt.de/event/katatonia) |
 |25.02.26 | A.A. Williams | - |
-
+|15.10.26 | The Gathering + Anneke | - |

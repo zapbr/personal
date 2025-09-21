@@ -381,13 +381,13 @@ My concerts timeline
 
 12/08 - King Woman - Berlin
 
+19/09 - Heretoir, Der Weg einer Freiheit - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|19.09.25 | Der Weg einer Freiheit | - |
-|05.10.25 | Dark Tranquillity | - |
 |22.10.25 | Gaerea | - |
 |13.11.25 | Massive Attack | - |
 |25.02.26 | A.A. Williams | - |

@@ -385,12 +385,13 @@ My concerts timeline
 
 22/10 - Gaerea, Orbit Culture - Berlin
 
+13/11 - Cavalera Conspiracy, Massive Attack - São Paulo
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|13.11.25 | Massive Attack | - |
 |06.02.26 | Tribute to Hollow Knight | [tickets](https://www.dreamlight-labs.com/de/city/Berlin?trc_inf_un=Dreamlight+DE+Organic+Channels&trc_inf_cn=ig&trc_inf_clid=8b3a7351-05b9-4c63-8da7-3d7282ba391d) |
 |25.02.26 | A.A. Williams | - |
 |01.07.26 | A Perfect Circle | - |

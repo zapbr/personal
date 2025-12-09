@@ -28,6 +28,7 @@
 [Puscifer](#Puscifer) •
 [Rammstein](#Rammstein) •
 [Russian Circles](#Russian-Circles) •
+[Sepultura](#Sepultura) •
 [Slipknot](#Slipknot) •
 [Thou](#Thou) •
 [Tool](#Tool) •
@@ -165,6 +166,10 @@
 ## Russian Circles
 
 * Gnosis
+
+## Sepultura
+
+* Chaos A.D.
 
 ## Slipknot
 

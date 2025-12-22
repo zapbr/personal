@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 66
+### Total: 67
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -30,6 +30,7 @@
 [Russian Circles](#Russian-Circles) •
 [Sepultura](#Sepultura) •
 [Slipknot](#Slipknot) •
+[Theatre of Tragedy](#Theatre-of-Tragedy) •
 [Thou](#Thou) •
 [Tool](#Tool) •
 [Ufomammut](#Ufomammut) •
@@ -174,6 +175,10 @@
 ## Slipknot
 
 * Iowa
+
+## Theatre of Tragedy
+
+* Velvet Darkness they Fear
 
 ## Thou
 

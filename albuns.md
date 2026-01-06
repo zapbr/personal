@@ -1,7 +1,7 @@
 
 # Albuns 
 
-### Total: 67
+### Total: 69
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -33,6 +33,7 @@
 [Theatre of Tragedy](#Theatre-of-Tragedy) •
 [Thou](#Thou) •
 [Tool](#Tool) •
+[Tristania](#Tristania) •
 [Ufomammut](#Ufomammut) •
 [Ulver](#Ulver) •
 [Wolves in the Throne Room](#Wolves-in-the-Throne-Room)
@@ -112,6 +113,7 @@
 
 ## Lucifer 
 
+* I
 * IV
 * V
 
@@ -189,6 +191,10 @@
 * Undertow
 * AEnima
 * Lateralus
+
+## Tristania
+
+* Widow's Weeds
 
 ## Ufomammut
 

@@ -387,13 +387,15 @@ My concerts timeline
 
 13/11 - Cavalera Conspiracy, Massive Attack - São Paulo
 
+## 2026
+
+22/01 - FAETOOTH, Coltaine - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|22.01.26 | FAETOOTH | [link](https://www.lido-berlin.de/events/2026-01-22-faetooth) |
-|02.02.26 | Emma Ruth Rundle | - |
 |25.02.26 | A.A. Williams | - |
 |10.04.26 | Harakiri for the Sky | [link](https://columbia-theater.de/event/20260410-harakiri-for-the-sky/) |
 |01.07.26 | A Perfect Circle | - |

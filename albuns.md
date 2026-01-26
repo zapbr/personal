@@ -1,16 +1,18 @@
 
 # Albuns 
 
-### Total: 69
+### Total: 72
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
 [Amesoeurs](#Amesoeurs) •
 [Alice in Chains](#Alice-in-Chains) •
 [Amenra](#Amenra) •
+[Coltaine](#Coltaine) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
 [Dio](#Dio) •
 [Dool](#Dool) •
+[Faetooth](#Faetooth) •
 [Heead Control System](#Heead-Control-System) •
 [Heretoir](#Heretoir) •
 [Iron Maiden ](#Iron-Maiden) •
@@ -62,6 +64,10 @@
 
 * MASS VI 
 
+## Coltaine
+
+* Brandung
+
 ## Der Weg einer Freiheit
 
 * Finisterre
@@ -75,6 +81,11 @@
 * Here Now There Then
 * Shape of Fluidity
 
+## Faetooth
+
+* Remnants of the Vessel
+* Labyrinthine
+
 ## Heead Control System
 
 * Murder Nature
@@ -86,8 +97,7 @@
 ## Iron Maiden 
 
 * Powerslave
-* Seventh Son of a Seventh Son
-  
+* Seventh Son of a Seventh Son  
 
 ## Katatonia
 

@@ -1,7 +1,6 @@
-
 # Albuns 
 
-### Total: 72
+### Total: 73
 
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
@@ -22,6 +21,7 @@
 [Les Discrets](#Les-Discrets) •
 [Lucifer ](#Lucifer) •
 [Messa ](#Messa) •
+[Negative Plane ](#Negative-Plane) •
 [Nine Inch Nails](#Nine-Inch-Nails) •
 [Nirvana](#Nirvana) •
 [Opeth](#Opeth) •
@@ -131,6 +131,10 @@
 
 * Closer
 
+## Negative Plane
+
+* The Pact
+  
 ## Nine Inch Nails
 
 * Pretty Hate Machine

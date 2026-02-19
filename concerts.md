@@ -401,4 +401,5 @@ My concerts timeline
 |01.07.26 | A Perfect Circle | - |
 |08.07.26 | System of a Down | - |
 |15.10.26 | The Gathering + Anneke | - |
+|12.11.26 | Messa | - |
 

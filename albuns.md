@@ -2,7 +2,7 @@
 
 ### Total: 73
 
-[A.A. Williams](#A-A--Williams) •
+[A.A. Williams](#aa-williams) •
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
 [Amesoeurs](#Amesoeurs) •

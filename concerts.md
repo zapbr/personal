@@ -390,13 +390,13 @@ My concerts timeline
 ## 2026
 
 22/01 - FAETOOTH, Coltaine - Berlin
+25/01 - A.A. Williams - Berlin
 
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|25.02.26 | A.A. Williams | - |
 |10.04.26 | Harakiri for the Sky | [link](https://columbia-theater.de/event/20260410-harakiri-for-the-sky/) |
 |01.07.26 | A Perfect Circle | - |
 |08.07.26 | System of a Down | - |

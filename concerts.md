@@ -390,6 +390,7 @@ My concerts timeline
 ## 2026
 
 22/01 - FAETOOTH, Coltaine - Berlin
+
 25/01 - A.A. Williams - Berlin
 
 ------------

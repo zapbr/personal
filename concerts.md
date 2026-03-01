@@ -391,7 +391,7 @@ My concerts timeline
 
 22/01 - FAETOOTH, Coltaine - Berlin
 
-25/01 - A.A. Williams - Berlin
+25/02 - A.A. Williams - Berlin
 
 ------------
 ## ... scenes of the next chapters

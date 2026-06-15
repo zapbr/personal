@@ -1,6 +1,6 @@
 # Albuns 
 
-### Total: 73
+### Total: 74
 
 [A.A. Williams](#aa-williams) •
 [Agalloch](#Agalloch) •
@@ -15,6 +15,7 @@
 [Faetooth](#Faetooth) •
 [Heead Control System](#Heead-Control-System) •
 [Heretoir](#Heretoir) •
+[Hole](#Hole) •
 [Iron Maiden ](#Iron-Maiden) •
 [Katatonia](#Katatonia) •
 [King Woman](#King-Woman) •
@@ -98,6 +99,10 @@
 ## Heretoir
 
 * Heretoir
+
+## Hole
+
+* Live through this
 
 ## Iron Maiden 
 

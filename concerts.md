@@ -400,6 +400,7 @@ My concerts timeline
 
 |Date|Bands|Tickets|
 |-|-|-|
+|25.08.26 | Papangu | https://www.eventbrite.de/e/usu-pres-papangu-m-takara-carla-boregas-neue-zukunft-25082026-tickets-1990939707259 |
 |04.10.26 | King Woman | - |
 |15.10.26 | The Gathering + Anneke | - |
 |27.10.26 | Wolves In The Throne Room | - |

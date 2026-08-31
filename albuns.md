@@ -1,6 +1,6 @@
 # Albuns 
 
-### Total: 74
+### Total: 76
 
 [A.A. Williams](#aa-williams) •
 [Agalloch](#Agalloch) •
@@ -22,12 +22,14 @@
 [Lacuna Coil](#Lacuna-Coil) •
 [Les Discrets](#Les-Discrets) •
 [Lucifer ](#Lucifer) •
+[Mastodon ](#Mastodon) •
 [Messa ](#Messa) •
 [Negative Plane ](#Negative-Plane) •
 [Nine Inch Nails](#Nine-Inch-Nails) •
 [Nirvana](#Nirvana) •
 [Opeth](#Opeth) •
 [Original Sound Track](#Original-Sound-Track) •
+[Papangu](#Papangu) •
 [PJ Harvey](#PJ-Harvey) •
 [Puscifer](#Puscifer) •
 [Rammstein](#Rammstein) •
@@ -137,6 +139,10 @@
 * IV
 * V
 
+## Mastodon
+
+* Leviatan
+
 ## Messa
 
 * Closer
@@ -174,6 +180,10 @@
 * Doom
 * Hollow Knight
 * Nosferatu
+
+## Papangu
+
+* Holoceno
 
 ## PJ Harvey
 

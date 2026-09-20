@@ -1,19 +1,20 @@
 # Albuns 
 
-### Total: 76
+### Total: 83
 
 [A.A. Williams](#aa-williams) •
 [Agalloch](#Agalloch) •
 [Alcest](#Alcest) •
-[Amesoeurs](#Amesoeurs) •
 [Alice in Chains](#Alice-in-Chains) •
 [Amenra](#Amenra) •
+[Amesoeurs](#Amesoeurs) •
 [Coltaine](#Coltaine) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
 [Dio](#Dio) •
 [Dool](#Dool) •
 [Faetooth](#Faetooth) •
-[Heead Control System](#Heead-Control-System) •
+[Gaerea](#Gaerea) •
+[Heead Control System](#Head-Control-System) •
 [Heretoir](#Heretoir) •
 [Hole](#Hole) •
 [Iron Maiden ](#Iron-Maiden) •
@@ -59,18 +60,18 @@
 ## Alcest
 
 * Ecalies de Lune
-
-## Amesoeurs
-
-* Amesoeurs
-
+  
 ## Alice in Chains
 
 * Dirt
 
 ## Amenra
 
-* MASS VI 
+* MASS VI
+
+## Amesoeurs
+
+* Amesoeurs
 
 ## Coltaine
 
@@ -94,7 +95,11 @@
 * Remnants of the Vessel
 * Labyrinthine
 
-## Heead Control System
+## Gaerea
+
+* Mirage
+
+## Head Control System
 
 * Murder Nature
 
@@ -121,7 +126,9 @@
 
 ## King Woman
 
-* Celestial Blues 
+* Celestial Blues (red)
+* Celestial Blues (onyx)
+* Created In The Image Of Suffering
 
 ## Lacuna Coil
 
@@ -169,7 +176,7 @@
 * Orchid
 * Morningrise
 * Blackwater Park
-* My Arms Your Harse
+* My Arms Your Hearse
 * Damnation
 * Ghost Reveries
 * Last Will and Testament
@@ -238,7 +245,8 @@
 ## Ulver
 
 * Kveldssanger
-* Mariage of Heaven and Hell 
+* Mariage of Heaven and Hell
+* Mariage of Heaven and Hell (CD)
 * Flowers of Evil
 * Blood Inside
 

@@ -397,14 +397,15 @@ My concerts timeline
 
 25/08 - Papangu - Berlin
 
+04/10 - King Woman - Berlin
+
+15/10 - The Gathering + Anneke - São Paulo
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|04.10.26 | King Woman | - |
-|15.10.26 | The Gathering + Anneke | - |
-|27.10.26 | Wolves In The Throne Room | - |
 |12.11.26 | Messa | - |
 |23.11.26 | A.A. Williams | - |
 |09.12.26 | Oathbreaker | - |

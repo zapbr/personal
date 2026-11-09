@@ -1,6 +1,6 @@
 # Albuns 
 
-### Total: 83
+### Total: 84
 
 [A.A. Williams](#aa-williams) •
 [Agalloch](#Agalloch) •
@@ -9,6 +9,7 @@
 [Amenra](#Amenra) •
 [Amesoeurs](#Amesoeurs) •
 [Coltaine](#Coltaine) •
+[Cradle of Filth](#Cradle-of-Filth) •
 [Der Weg einer Freiheit](#Der-Weg-einer-Freiheit) •
 [Dio](#Dio) •
 [Dool](#Dool) •
@@ -76,6 +77,10 @@
 ## Coltaine
 
 * Brandung
+
+## Cradle of Filth
+
+* Dusk ... and Her Embrace
 
 ## Der Weg einer Freiheit
 

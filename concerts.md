@@ -409,5 +409,6 @@ My concerts timeline
 |12.11.26 | Messa | - |
 |23.11.26 | A.A. Williams | - |
 |09.12.26 | Oathbreaker | - |
+|22.02.27 | Baphy | - |
 |11.03.27 | Cult of Luna | - |
 |22.03.27 | Emma Ruth Rundle | [link](https://www.eventim.de/event/emma-ruth-rundle-these-killing-times-full-band-tour-2027-festsaal-kreuzberg-22064171/) |

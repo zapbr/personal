@@ -401,12 +401,13 @@ My concerts timeline
 
 15/10 - The Gathering + Anneke - São Paulo
 
+12/11 - Messa - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|12.11.26 | Messa | - |
 |23.11.26 | A.A. Williams | - |
 |09.12.26 | Oathbreaker | - |
 |22.02.27 | Baphy | - |

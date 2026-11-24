@@ -1,6 +1,6 @@
 # Albuns 
 
-### Total: 85
+### Total: 87
 
 [A.A. Williams](#aa-williams) •
 [Agalloch](#Agalloch) •
@@ -48,6 +48,8 @@
 
 ## A.A. Williams
 
+* Songs From Isolation
+* As The Moon Rests
 * Just A Shadow/Wolves EP
 
 ## Agalloch

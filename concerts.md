@@ -403,12 +403,13 @@ My concerts timeline
 
 12/11 - Messa - Berlin
 
+23/11 - A.A. Williams, Chelsea Wolfe - Berlin
+
 ------------
 ## ... scenes of the next chapters
 
 |Date|Bands|Tickets|
 |-|-|-|
-|23.11.26 | A.A. Williams | - |
 |09.12.26 | Oathbreaker | - |
 |22.02.27 | Baphy | - |
 |11.03.27 | Cult of Luna | - |
